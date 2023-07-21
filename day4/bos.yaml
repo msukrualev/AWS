@@ -1,0 +1,19 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: |
+  
+Parameters:
+  KeyPairName:
+    Description: 
+    Type: AWS::EC2::KeyPair::KeyName
+    Default: 
+Metadata:
+  
+Mappings:
+  
+Conditions:
+  
+Resources:
+  
+Transform:
+  
+Outputs:
